@@ -474,7 +474,7 @@ ul {
       margin: 6% 0; } }
 
 .footer {
-  background-image: url("../../../img/footer.png");
+  background-image: url("../../img/footer.png");
   background-size: cover;
   padding-top: 15%;
   background-position: center end;
